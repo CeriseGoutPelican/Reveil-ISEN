@@ -4,7 +4,7 @@ Imaginez, en un seul objet, un serveur musicale Spotify totalement indépendant,
 
 C'est ce qu'est le réveil ISEN : une inteface simple et intuitive au design 8-bits où vous pouvez afficher toutes les informations nécessaires à votre quotidien et à votre réseau domotique, sans avoir à passer par un ordinateur ou à un smartphone. Le concept, pour un prix abordable, a été conçu pour être le plus modulable possible et, même avec des connaissances basiques en programmation et en électronique, vous devriez pouvoir facilement l'adapter parfaitement à vos besoins.
 
-![Equipe du projet](http://www.shiningparadox.fr/wp-content/uploads/2017/07/IMG_4408.jpg)
+![Equipe du projet](http://www.shiningparadox.fr/wp-content/uploads/2017/07/6.jpg)
 ![Premier prototype](http://www.shiningparadox.fr/wp-content/uploads/2017/07/1.jpg)
 ![Interface Twitter](http://www.shiningparadox.fr/wp-content/uploads/2017/07/4.jpg)
 
@@ -121,7 +121,7 @@ Lors de la création de la boite, deux possibilités se sont présentées : l'im
 Nous avons donc décidé de partir sur une découpe laser, peu chère car elle ne demande que les prix des matériaux (bois, PVC, etc.) et peut se faire pour moins de dix euros et en seulement quelques minutes.
 
 ![Découpe laser : machine](http://www.shiningparadox.fr/wp-content/uploads/2017/07/IMG_20170629_114939.jpg)
-![Découpe laser : rendu final](http://www.shiningparadox.fr/wp-content/uploads/2017/07/IMG_4428.jpg)
+![Découpe laser : rendu final](http://www.shiningparadox.fr/wp-content/uploads/2017/07/5.jpg)
 
 ## Les ouvertures possibles
 Au dela de ce premier jet, un énorme travaille sera encore nécessaire pour rendre le réveil accessible et agréable à utiliser. Voici les futures fonctionnalités prévues pour les futures mises à jour :
