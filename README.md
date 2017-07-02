@@ -28,7 +28,7 @@ Le projet complété pourrait alors tourner aux alentours de `60€` environ.
 ## Structure du projet 
 Le premier jet du projet s'est structuré sur six paquets que l'on a voulu indépendant du réveil ainsi qu'un paquet jouant le rôle de "cerveau" sur le projet.
 
- - Réveil ISEN (CERVEAU) : [voir le Github](https://github.com/)
+ - Réveil ISEN (CERVEAU) : [voir le Github](https://github.com/CeriseGoutPelican/Constellation-Reveil-ISEN)
  - Serveur Spotify : [voir le Github](https://github.com/nicolasroi/Constellation-Spotify)
  - Package Twitter pour Constellation : [voir le Github](https://github.com/CeriseGoutPelican/Package-Twitter-pour-Constellation)
  - Package bouton GPIO pour Raspberry Pi pour Constellation : [voir le Github](https://github.com/CeriseGoutPelican/Package-boutons-GPIO-pour-Constellation)
@@ -111,7 +111,7 @@ def monPackageUpdated(stateobject):
 ### Ajouter un réveil
 Pour ajouter un réveil, deux possibilités sont offertes : envoyer un `message Callback` depuis la console Constellation ou alors utiliser l'interface web dédiée :
 
-...
+![Dashboard](http://www.shiningparadox.fr/wp-content/uploads/2017/07/5-1.jpg)
 
 ## Conception de la boite
 Lors de la création de la boite, deux possibilités se sont présentées : l'impression 3D et la  découpe laser. Si l'impression 3D permet plus de liberté et plus de précision dans les volumes et le squellette, celle-ci est terriblement chère pour des structures supérieures à une vingtaine de centimètres (la matrice LED fait une trentaine de centimètres). Le prix de la boite 3D sur Sculpteo s'élevait à `145€` et pour une impression "maison" autour d'une cinquentaine d'euros.
